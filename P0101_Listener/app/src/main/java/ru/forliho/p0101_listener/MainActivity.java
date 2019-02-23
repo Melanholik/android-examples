@@ -1,4 +1,4 @@
-package ru.forliho.p0101_listener;
+﻿package ru.forliho.p0101_listener;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     Button button2;
     Button button3;
 
+    // liha - pidar
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
