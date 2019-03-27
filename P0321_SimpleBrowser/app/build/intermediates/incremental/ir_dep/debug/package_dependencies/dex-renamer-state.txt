@@ -1,0 +1,4 @@
+#Wed Mar 27 20:53:23 MSK 2019
+base.0=K\:\\Android\\startandroid\\P0321_SimpleBrowser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
